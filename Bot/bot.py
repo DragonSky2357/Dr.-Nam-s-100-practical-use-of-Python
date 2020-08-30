@@ -6,7 +6,7 @@ import os
 logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
-TELEGRAM_TOKEN = "1186802674:AAEEJpZN4HgIZ5HoIlLOx897r_eI8OGUZ18"
+TELEGRAM_TOKEN = "KEY"
 
 
 def handler(msg):
